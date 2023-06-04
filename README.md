@@ -56,10 +56,6 @@ The outcome of the code helps assess the effectiveness of the BERT-based fake ne
 The outcomes indicate that the BERT model is highly effective in detecting fake news. This success can be attributed to the BERT model's ability to capture contextual information and relationships between words in news titles, enabling it to make more accurate predictions.
 Nevertheless, it is important to recognize that fake news detection remains a complex task, and no model is infallible. There may be instances where the model misclassifies news articles or fails to detect subtle forms of fake news. Therefore, continuous improvement and updating of the model based on new data and emerging fake news patterns are crucial.
 
-![Confusion Matrix](Confusion Matrix.png)
-
-![Misclassification News](Misclassification News.png)
-
 ## Future Work
 Future work in this area can involve expanding the dataset to include more diverse and recent examples of fake news, exploring ensemble models to further improve detection accuracy, and incorporating additional features such as user and network characteristics to enhance the detection process. Continuous research and development are essential to effectively combat the proliferation of fake news.
 
